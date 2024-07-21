@@ -21,3 +21,5 @@ swagger.yaml
 
 # Debug folder
 .vscode
+
+Jenkinsfile
